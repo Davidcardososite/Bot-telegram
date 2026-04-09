@@ -34,7 +34,7 @@ Um bot do Telegram poderoso para download de vídeos do YouTube, Instagram, Face
 - pip (gerenciador de pacotes)
 - Token de Bot do Telegram ([@BotFather](https://t.me/BotFather))
 - FFmpeg (para conversão de vídeos)
-
+```
 ## 🔧 Instalação
 
 ### 1. Clone o repositório
