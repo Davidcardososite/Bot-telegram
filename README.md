@@ -48,7 +48,7 @@
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/telegram-video-downloader.git
+git clone https://github.com/Davidcardososite/telegram-video-downloader.git
 cd telegram-video-downloader
 ```
 
